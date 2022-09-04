@@ -1,0 +1,5 @@
+source: https://cp-algorithms.com/string/string-hashing.html (Polynomial Rolling Hash Function)
+
+source: https://stackoverflow.com/questions/7666509/hash-function-for-string
+
+source: http://www.cse.yorku.ca/~oz/hash.html
